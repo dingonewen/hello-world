@@ -6,3 +6,4 @@
 2025-11-02: Today I polished and published my portfolio, and I will keep polishing it over time as I grow.  
 2025-12-28: Just got rejected by Google TPM intern role. Started to enhance my programming skills with NeetCode and Python.  
 2026-01-13: Start working on my Oystraz project.  
+2026-01-24: Copying the git from OneDrive and it's kinda confusing. Will figure it out by this weekend.  
